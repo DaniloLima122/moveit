@@ -29,8 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Como rodar este projeto?
 
-<br/>
-
 ### Antes de rodar o projeto
 
 <br/>
