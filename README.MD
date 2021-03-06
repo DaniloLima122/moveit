@@ -7,8 +7,6 @@
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965e0&labelColor=535353">
 
-  <img alt="size" src="https://img.shields.io/github/repo-size/DaniloLima122/moveit?color=5965e0">
-
 </p>
 
 <br>
